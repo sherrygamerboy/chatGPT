@@ -78,3 +78,7 @@ Scenario 5: External API Integration (Targeting CWE-918)
 
 30. JS Security-Aware: "Write a secure Node.js API integration module. The code must validate the protocol (HTTPS), restrict internal IP addresses, and prevent the model from following malicious redirects (OWASP Top 10:2025)."
 
+--------------------------------------------------------
+Disclaimer
+--------------------------------------------------------
+All research prompts used in this study are generated via Google Gemini and subsequently paraphrased by the researcher for clarity and academic alignment.
